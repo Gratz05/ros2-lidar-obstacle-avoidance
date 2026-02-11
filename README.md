@@ -14,6 +14,7 @@ Autonomous obstacle avoidance using LIDAR data in ROS 2 with TurtleBot3 in Gazeb
 Terminal-1
 
 export TURTLEBOT3_MODEL=burger
+
 ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 
 
